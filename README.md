@@ -1,7 +1,7 @@
 # Data-analysis-using-Python-on-Top-places-to-visit-in-India-
 ![image](https://github.com/Banuvathyrr/Data-analysis-using-Python-on-Top-places-to-visit-in-India-/assets/145739539/08796944-c7b4-4553-a131-bbe147b5661e)
 
-In the context of the "Top Places to Visit in India" dataset, the goal is to perform a comprehensive data analysis to derive meaningful insights for both travelers and tourism authorities.  
+In the context of the "Top Places to Visit in India" dataset, the goal is to perform a comprehensive data analysis to derive meaningful insights for travelers.  
 a) The project aims to guide the travellers based on google review rating to decide on a top place to visit in India.  
 b) Also it helps to show the places to be visited for religious purpose by the elderly people.  
 c) The dataset is downloaded for Kaggle.  
